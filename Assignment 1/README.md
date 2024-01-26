@@ -1,7 +1,7 @@
 # Reflection 
-## What I've gain :
+## Summarize on what I have gained :
 i gained 
 
-## improvement
+## Suggestion on improvement :
 
-## others
+## Others
