@@ -1,3 +1,6 @@
+![photo_2024-01-27_23-55-19](https://github.com/adriana-munirah/E-portfolio/assets/147963381/569986a0-cdf6-44d2-a5fc-cf48922de214)
+
+
 # Reflection 
 ## Summarize on what I have gained :
 Now I have gained a firm grasp of how hardware and software components interact to produce a completely functional computer system thanks to my experience constructing PCs. In addition, I've developed useful troubleshooting and problem-solving abilities that have aided me in resolving technical problems that can come up during assembly. My teammates and I cooperate together until the PC is working again. In addition, while building a PC from the ground up, I've gained expertise and knowledge that will be useful for next technical developments. I came to see how invaluable the practical experience this course offered was. Along with gaining useful technical skills, I also solidified my knowledge and comprehension base. I will always remember my wonderful experience in this training. 
