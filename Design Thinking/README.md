@@ -1,1 +1,9 @@
+# Reflection 
+## Summarize on what I have gained :
+Through this design thinking project, I acknowledged that there's actually a lot of things in our life need some innovation and improvement. As for the project, Electric Stove Controller App that we came out the idea of it got a positive feedback from our lecturer. This apps definitely helps the household to prevent any accidents that might occurs during cooking in the kitchen. This app easy to use and can control whenever you want as long as it is connected through the mobile phones. 
 
+## Suggestion on improvement :
+We think on some improvements on the apps since this app only ceonnected to electric stove only. As for the improvisation in the future, we would like to create another app that has the same function as the Electric Stove Controller App but this app will be connect towards multiple cookware such as portable pot that is famous among the students.
+
+## Others
+I hope I can apply the knowledge that I get through this course to creative projects that tackle pressing issues in the actual world.The design thinking project helped me develop my problem solving skills since it requires us as a team to find the solution to any problem that we face in our daily lives. This project really helps me to think more on how to face the problem during the making of the improvisation of the product. To enhance my potential in the industry, I should know the importance of staying updated with the latest technologies and trends, so I won't be left out. I also recognize the importance of honing my soft skills, including communication, teamwork, and problem-solving since we must interact and work with people too, not just machines and computers.By implementing these actions and improvements, I am confident that I will not only enhance my potential but also make meaningful contributions to the industry.
