@@ -1,5 +1,4 @@
 ![photo_2024-01-28_18-06-53](https://github.com/adriana-munirah/E-portfolio/assets/147963381/94ffebc0-6b7b-4542-bdec-01a752749c0e)
-![photo_2024-01-28_18-06-55](https://github.com/adriana-munirah/E-portfolio/assets/147963381/ba334bc6-abee-411a-bb22-0fc099902225)
 ![photo_2024-01-28_18-07-04](https://github.com/adriana-munirah/E-portfolio/assets/147963381/8ae5a3e6-3b37-4664-8cc0-e26508fbcd13)
 ![photo_2024-01-28_18-07-18](https://github.com/adriana-munirah/E-portfolio/assets/147963381/416f2419-8e26-4066-8f11-9ae4477eda34)
 
